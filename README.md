@@ -1,4 +1,4 @@
-&#x20;\<!-- GitHub Profile README | Sayyed Mohammad Aquib -->
+<!-- GitHub Profile README | Sayyed Mohammad Aquib -->
 
 \<div align="center">
 

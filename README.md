@@ -1,10 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=AQUIB%20SAYYED&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BCA%20(AI%20%26%20ML)%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=20&descAlignY=58" width="100%" alt="Aquib Sayyed banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=90&lines=AQUIB+SAYYED" alt="Aquib Sayyed"/>
 
-<a href="https://github.com/Aquibsayyed2809">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Grow;BCA+(AI+%26+ML)+Student+%F0%9F%8E%93;Python+%7C+Java+%7C+Web+Development;Exploring+Artificial+Intelligence+%F0%9F%A4%96" alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=BCA+(AI+%26+ML)+Student+%7C+Aspiring+Software+Developer;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Grow;Python+%7C+Java+%7C+Web+Development;Exploring+Artificial+Intelligence" alt="Typing animation"/>
 
 <br/>
 
@@ -141,9 +139,5 @@ Python & Java Basics  ──►  DSA & Problem Solving  ──►  Web + Backend
 ### 💙 Learn. Build. Improve.
 
 *"Small steps every day lead to big achievements."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>

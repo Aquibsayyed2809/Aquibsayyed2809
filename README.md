@@ -1,24 +1,30 @@
- 
-<div align="center">
+ <div align="center">
 
-# 👋 AQUIB SAYYED
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=AQUIB%20SAYYED&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BCA%20(AI%20%26%20ML)%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=20&descAlignY=58" width="100%" alt="Aquib Sayyed banner"/>
 
-### BCA (AI &amp; ML) Student | Aspiring Software Developer
+<a href="https://github.com/Aquibsayyed2809">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Grow;BCA+(AI+%26+ML)+Student+%F0%9F%8E%93;Python+%7C+Java+%7C+Web+Development;Exploring+Artificial+Intelligence+%F0%9F%A4%96" alt="Typing animation"/>
+</a>
 
-**Code • Learn • Build • Grow**
+<br/>
 
-<img src="https://img.shields.io/badge/Python-Learning-0EA5E9?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-Learning-7C3AED?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-Learning-0EA5E9?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-Learning-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/AI%2FML-Exploring-2563EB?style=for-the-badge" alt="AI and Machine Learning"/>
 
 <br/>
 
 <a href="https://github.com/Aquibsayyed2809">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <a href="https://www.linkedin.com/in/aquib-sayyed-b485a3385/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aquibsayyed2809&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Aquibsayyed2809?label=Followers&style=flat-square&color=7C3AED" alt="Followers"/>
 
 </div>
 
@@ -26,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sayyed Mohammad Aquib**, a BCA (AI &amp; ML) student at **Integral University, Lucknow**.
+Hi! I'm **Sayyed Mohammad Aquib**, a BCA (AI & ML) student at **Integral University, Lucknow**.
 
 - 🎓 Learning computer science and programming.
 - 🐍 Practicing Python and Java.
@@ -41,9 +47,22 @@ Hi! I'm **Sayyed Mohammad Aquib**, a BCA (AI &amp; ML) student at **Integral Uni
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode&amp;theme=dark" alt="Technologies I am learning"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode&theme=dark" alt="Technologies I am learning"/>
 
 </div>
+
+---
+
+## 🌱 Currently Learning
+
+| Area | Focus |
+|------|-------|
+| 🐍 **Python** | Core concepts, OOP, file handling, libraries like NumPy & Pandas |
+| ☕ **Java** | OOP principles, collections, basic DSA |
+| 🌐 **Web Development** | HTML, CSS, JavaScript, building responsive pages |
+| 🤖 **AI & ML** | ML basics, data analysis, simple model building |
+| 🗄️ **Database** | MySQL, queries and joins |
+| 🧩 **DSA** | Arrays, strings, recursion, problem-solving |
 
 ---
 
@@ -57,15 +76,53 @@ Hi! I'm **Sayyed Mohammad Aquib**, a BCA (AI &amp; ML) student at **Integral Uni
 
 ---
 
+## 🚀 Project Ideas I'm Working Toward
+
+- 📝 **To-Do / Task Manager** – Python or JavaScript based app
+- 🌦️ **Weather App** – using a public API
+- 💼 **Personal Portfolio Website** – HTML, CSS & JavaScript
+- 🧮 **Student Management System** – Java + MySQL
+- 🤖 **Basic ML Model** – prediction project using Python & scikit-learn
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aquibsayyed2809&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=E2E8F0" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aquibsayyed2809&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquibsayyed2809&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38BDF8&amp;text_color=E2E8F0" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquibsayyed2809&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquibsayyed2809&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=E2E8F0" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aquibsayyed2809&bg_color=020617&color=38BDF8&line=A78BFA&point=E2E8F0&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
 
 </div>
+
+---
+
+## 📚 Learning Roadmap
+
+```text
+Python & Java Basics  ──►  DSA & Problem Solving  ──►  Web + Backend Development
+                                                              │
+                                                              ▼
+                             Real-World Projects  ◄──  AI & Machine Learning
+```
+
+---
+
+## 💡 Fun Facts
+
+- ☕ Turning coffee and curiosity into code.
+- 🧠 I believe consistency beats talent.
+- 🔭 Always curious about how AI actually works.
+- 🌍 Open to learning, collaborating and growing with other developers.
 
 ---
 
@@ -74,15 +131,19 @@ Hi! I'm **Sayyed Mohammad Aquib**, a BCA (AI &amp; ML) student at **Integral Uni
 <div align="center">
 
 <a href="https://github.com/Aquibsayyed2809">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub projects"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aquib-sayyed-b485a3385/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 ### 💙 Learn. Build. Improve.
 
-*“Small steps every day lead to big achievements.”*
+*"Small steps every day lead to big achievements."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
